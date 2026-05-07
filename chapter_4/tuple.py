@@ -1,4 +1,4 @@
-# tuple is immutable data type in python which means we cant change the value
+ # tuple is immutable data type in python which means we cant change the value
 
 my_tuple = (1, 2, 3, 'four', 'five', 6.0)
 print(my_tuple)  # (1, 2, 3, 'four', 'five', 6.0)
