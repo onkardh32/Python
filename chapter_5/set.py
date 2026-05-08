@@ -153,5 +153,5 @@ print(2 == "2")  # False
 # No you cannto and first you cannot have a list inside a 
 # set because lists are mutable and sets require immutable elements.
 # so below is wrpng
-s = {1, 2, [3, 4]}  # This will raise a TypeError because lists are unhashable and cannot be added to a set.
+# s = {1, 2, [3, 4]}  # This will raise a TypeError because lists are unhashable and cannot be added to a set.
 
