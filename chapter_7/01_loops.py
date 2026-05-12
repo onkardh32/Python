@@ -104,6 +104,11 @@ for i in range(5):
     if i == 2:
         pass    # does nothing, it is a placeholder for future code
     print(i)
+    
+
+# for loop which does nothing
+for i in range(45):
+    pass
 
 
 
