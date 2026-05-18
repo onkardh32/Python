@@ -112,3 +112,19 @@ for i in range(45):
 
 
 
+# trick to print the a patern using * symbol
+#unliek other language we'd need to use nested loops to print this pattern, but in python we can do it in a single loop using string multiplication
+# in python also it prints the new line after each print
+n=4
+
+for i in range(1,n):
+    print((n-i)*" ",end="")
+    print(((2*i)-1)*"*",end="")
+    print("\n")  # for newline
+    
+
+
+for i in range(1,11):
+    print(f"{10-i+1}")
+    
+    
